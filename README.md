@@ -49,6 +49,7 @@ Recommendation systems are among the most valuable data applications across indu
 In this project, we use **MovieLens**, one of the most traditional datasets for recommendation problems, widely adopted in academic research and applied projects.
 
 This project was developed inspired by the **7DaysOfCode Data Science challenge by Alura**, with a focus on practical experimentation based on real-world cases.
+
 ---
 
 ## Goals
