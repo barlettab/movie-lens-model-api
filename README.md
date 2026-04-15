@@ -253,10 +253,20 @@ curl -X POST "http://localhost:8000/predict" \
 
 ## References
 
-- MovieLens dataset: [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/32m/)
-- FastAPI: https://fastapi.tiangolo.com/
-- Joblib: https://joblib.readthedocs.io/
-- Alura #7DaysOfCode: https://7daysofcode.io/#dados
+- MovieLens dataset:
+   [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/32m/)
+  
+- FastAPI:
+  [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+  
+- Joblib:
+  https://joblib.readthedocs.io/en/stable/
+  
+- Alura #7DaysOfCode:
+  https://7daysofcode.io/#dados
+  
+- Kaggle Notebook:
+  https://www.kaggle.com/code/barlettab/movie-lens
 
 ---
 
